@@ -1,5 +1,9 @@
 # Maze Generator and Solver
 
+| Name              | ID           |
+|-------------------|-------------|
+| Abel Tamerat      | UGR/4812/16 |
+
 This project generates and solves a maze using Python and Pygame.
 
 ## Features
@@ -32,6 +36,3 @@ pip install -r requirements.txt
 python main.py
 
 
-| Name              | ID           |
-|-------------------|-------------|
-| Abel Tamerat      | UGR/4812/16 |
