@@ -31,5 +31,7 @@ The solver then traverses the maze using another DFS algorithm with backtracking
 pip install -r requirements.txt
 python main.py
 
-| Name | ID |
-| Abel Tamerat | UGR/4812/16 |
+
+| Name              | ID           |
+|-------------------|-------------|
+| Abel Tamerat      | UGR/4812/16 |
